@@ -1,6 +1,5 @@
 # JS-Based-Project
-======================================================================================================== PROBLEM SATAEMENT:
-Coding Challenge
+PROBLEM SATAEMENT:
 
 Using the json file provided below, given an input of products, design a page that:
 
